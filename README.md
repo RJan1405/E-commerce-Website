@@ -6,6 +6,10 @@ PHP
 Sql
 Xampp
 
+Note:-Import all database in phpadmin of xampp given in Database folder
+
+Presentaion is available
+
 Registration Page
 ![image alt](https://github.com/RJan1405/E-commerce-Website/blob/9f80c155ac967d6505131468d97f5b54ffc9a519/gen/pic/Registration%20Page.png)
 Login Page
